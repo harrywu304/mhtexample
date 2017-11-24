@@ -1,4 +1,4 @@
-package src.main.java.org.pub.mhtstandalone;
+package org.pub.mhtstandalone;
 
 import java.io.File;
 import java.io.IOException;

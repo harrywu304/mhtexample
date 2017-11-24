@@ -1,7 +1,7 @@
 /**
  * 
  */
-package src.main.java.org.pub.mhtstandalone;
+package org.pub.mhtstandalone;
 
 import org.apache.mahout.cf.taste.recommender.IDRescorer;
 
